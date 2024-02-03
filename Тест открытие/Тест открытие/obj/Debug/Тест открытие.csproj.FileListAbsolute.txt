@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\bin\Debug\Тест открытие.exe.config
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\bin\Debug\Тест открытие.exe
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\bin\Debug\Тест открытие.pdb
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\obj\Debug\Тест открытие.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\obj\Debug\Тест_открытие.Form1.resources
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\obj\Debug\Тест_открытие.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\obj\Debug\Тест открытие.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\obj\Debug\Тест открытие.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\obj\Debug\Тест открытие.exe
+C:\Users\User\Desktop\проекты программирование\Тест открытие\Тест открытие\obj\Debug\Тест открытие.pdb
